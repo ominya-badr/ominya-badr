@@ -16,9 +16,7 @@
 ### Connect with Me :
 
 <a href="https://t.me/ominyabadr" target="_blank"><img src="https://img.shields.io/badge/-Ominya%20Badr-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://t.me/ominyabadr" target="_blank"><img src="linkedin.com/in/ominya-badr-25887434b"/></a>
-
-
+<a href="linkedin.com/in/ominya-badr-25887434b" target="_blank"><img src="https://img.shields.io/badge/-Ominya%20Badr-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
